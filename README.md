@@ -1,4 +1,4 @@
-[English](README_EN.md) | [See Less](README.md)
+[English](README_EN.md) | [Install](READ.md)
 
 # Nicotine 12.4
 
