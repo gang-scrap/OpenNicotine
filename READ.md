@@ -1,3 +1,3 @@
-[ReadMe](README.md) | [See More](READ.md)
+[ReadMe](README.md) | [See More](README.md)
 
 # OpenNicotine
