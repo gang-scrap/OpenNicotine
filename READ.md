@@ -4,6 +4,7 @@
 
 
 ### OpenNicotine 12.4 Install Guide
+[Install](https://github.com/gang-scrap/OpenNicotine/releases/tag/minecraft)
 
 
 ## Minecraft Compatibility
