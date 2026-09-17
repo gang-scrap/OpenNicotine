@@ -1,1 +1,3 @@
-Nictone 12.4, But open sourced! check tags.
+[ReadMe](README.md) | [See More](READ.md)
+
+# OpenNicotine
