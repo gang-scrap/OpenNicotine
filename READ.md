@@ -1,6 +1,10 @@
 [ReadMe](README.md) | [See More](README.md)
 
-# OpenNicotine
+# OpenNicotine 12.4
+
+
+### OpenNicotine 12.4 Install Guide
+
 
 ## Minecraft Compatibility
 
