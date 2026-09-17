@@ -1,10 +1,10 @@
-[English](README_EN.md) | [Install](READ.md)
+[English](README.md) | [Install](READ.md)
 
-# Nicotine 12.4
+# OpenNicotine 12.4
 
 
 
-### It is NOT official Nicotine source code, an original release package, or a vendor-signed artifact, and it does not guarantee behavior identical to the original product.
+### OpenNicotine 12.4 Install Guide
 
 
 ## Minecraft Compatibility
