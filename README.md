@@ -4,7 +4,7 @@
 
 
 
-### OpenNicotine 12.4 Install Guide
+
 
 
 ## Minecraft Compatibility
